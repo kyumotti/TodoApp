@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kyumotti/TodoApp.git/static/css/main.af039a74.css",
+    "main.js": "/kyumotti/TodoApp.git/static/js/main.805abd84.js",
+    "index.html": "/kyumotti/TodoApp.git/index.html",
+    "main.af039a74.css.map": "/kyumotti/TodoApp.git/static/css/main.af039a74.css.map",
+    "main.805abd84.js.map": "/kyumotti/TodoApp.git/static/js/main.805abd84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af039a74.css",
+    "static/js/main.805abd84.js"
+  ]
+}
